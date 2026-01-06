@@ -7,4 +7,4 @@
 - Softmax is useful when we have multiclassification tasks, used in the output layer</br>
 #### How the optimizer (Adam) may have shaped weight updates during training.
 - Adam optimizer helps with updating learning rate and momentum to update weights to reduce loss as much as possible and it does bias correction
-![Screenshot of task 1](/assets//task 1.png)
+![Screenshot of task 1](/assets/images/task_1.png)
